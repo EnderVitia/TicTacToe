@@ -22,7 +22,6 @@ namespace TicTacToe
         {
             Game3x3 g = new Game3x3();
             g.Show();
-            this.Hide();
             
         }
 
